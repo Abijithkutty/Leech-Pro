@@ -120,7 +120,7 @@
 🤧 <b> Before Deploy 𝗣𝗹𝗲𝗮𝘀𝗲 𝗛𝗶𝘁 𝗦𝘁𝗮𝗿 ★ else you are Gay</b>
 
 
-<p><a href=[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abijithkutty/Leech-Pro)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abijithkutty/Leech-Pro)
 
 
 [![REX BOTZ](https://telegra.ph/file/f5a0d2262af4762869935.jpg)](https://telegram.dog/REX_BOTZ)]
